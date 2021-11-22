@@ -1,0 +1,7 @@
+The ipython notebook is a mess and deals with my ramblings.  Good luck. 
+
+To download the hydrograph data you need my HydrographTools package, available from the same gitbub account:
+https://github.com/boatmorrow/hydrograph_tools
+
+pull and put in your python path.
+
